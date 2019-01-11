@@ -19,7 +19,7 @@ rules:
       @effect:Concept
       [word="is"] [word="the"]
       (?<cause> []+ )
-
+ # EDIT HERE TO ADD A NEW RULE
  # - name: gtri-aske-scimod-def3
  #   label: Definition
  #   priority: 2
