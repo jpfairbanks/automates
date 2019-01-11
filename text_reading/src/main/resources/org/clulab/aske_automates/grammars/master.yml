@@ -20,7 +20,7 @@ rules:
 
 
 # ------ Scientific Modeling related -----
-  - import: "org/clulab/aske_automates/grammars/entities/grammars/gtri-aske-scientific-modeling.yml"
+  - import: "org/clulab/aske_automates/grammars/entities/grammar/gtri-aske-scientific-modeling.yml"
     vars:
       rulepriority: "6"
       addLabel: "Definition"
