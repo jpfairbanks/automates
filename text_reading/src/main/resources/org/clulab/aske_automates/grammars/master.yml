@@ -17,3 +17,12 @@ rules:
       addlabel: "Cause"
       label: Causal
       trigger: ${cause_triggers}
+
+
+# ------ Scientific Modeling related -----
+  - import: "org/clulab/aske_automates/grammars/entities/grammar/gtri-aske-scientific-modeling.yml"
+    vars:
+      rulepriority: "6"
+      addLabel: "Definition"
+      label: Definition
+
